@@ -1,4 +1,4 @@
-package clase13_ClasesAbstractas;
+package clasesAbstractas;
 
 public class Alumno {
     private String apenom;

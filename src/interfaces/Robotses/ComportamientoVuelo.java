@@ -1,4 +1,4 @@
-package Clase14.ejercicios;
+package interfaces.Robotses;
 
 public interface ComportamientoVuelo{
 	public void volar();

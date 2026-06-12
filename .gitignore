@@ -5,7 +5,6 @@ out/
 .kotlin
 .idea/
 *.iml
-out/
 target/
 .gradle/
 build/

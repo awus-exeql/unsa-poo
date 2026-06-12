@@ -1,6 +1,6 @@
-package Clase14.ejercicios.comportamientoVuelo;
+package interfaces.Robotses.comportamientoVuelo;
 
-import Clase14.ejercicios.ComportamientoVuelo;
+import interfaces.Robotses.ComportamientoVuelo;
 
 public class SinVuelo implements ComportamientoVuelo {
     @Override
